@@ -10,4 +10,5 @@ JavaScript implementation of [Bitcoin BIP39](https://github.com/bitcoin/bips/blo
 
 ## How to
 -Install node
+
 -node words.js
